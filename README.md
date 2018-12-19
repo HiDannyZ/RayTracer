@@ -22,7 +22,7 @@ Scene1            |  Scene2
 ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene1.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene2.png)
 
 ## ViewPlane
-
+To render an image of a 3D scene, we project it onto a plane. Therefore
 ## BackWard Raytracing
 
 ## Phong Illumination model
