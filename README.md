@@ -10,8 +10,6 @@ The Program was written in C++ utilizing:
 # Animation made from Images rendered in RayTracer
 [![YouTubeThumbNail](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/YouTubeThumbNail.png)](https://www.youtube.com/watch?v=FFaznvya36A "Everything Is AWESOME")
 
-Personally made 
-
 # Contact for any Questions
 - Danny Zhu
   - [Linkedin](https://www.linkedin.com/in/danny-zhu-8b6556119/),
@@ -57,6 +55,10 @@ By accurately computing the normals of my track, the lighting on my track produc
   KEEP ALL FILE NAMES THE SAME and the same order.
   
   Double-click Project2.exe. 
+
+
+### How was the Animation made?
+
 
    
 # Source for Images and more info:
