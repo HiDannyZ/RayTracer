@@ -7,7 +7,7 @@ The Program was written in C++ utilizing:
 - OpenGL
 - Microsoft Visual Studios C++.
 
-# Animation created from Images made in RayTracer Application
+# Animation made from Images rendered in RayTracer
 [![YouTubeThumbNail](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/YouTubeThumbNail.png)](https://www.youtube.com/watch?v=FFaznvya36A "Everything Is AWESOME")
 
 Personally made 
