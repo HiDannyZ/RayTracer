@@ -5,11 +5,9 @@
 
 The Program was written in C++ utilizing:
 - Microsoft Visual Studios C++.
+- OpenGL
 
 # Animation made from Images rendered in RayTracer
-Scene1            |  Scene2
-:-------------------------:|:-------------------------:
-![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene1.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene2.png)
 
 # Contact for any Questions
 - Danny Zhu
@@ -17,8 +15,11 @@ Scene1            |  Scene2
   - chdannyzhu@yahoo.com
   
 # Ray Tracing Intro
-My 2 images and 
+
 # Features:
+Scene1            |  Scene2
+:-------------------------:|:-------------------------:
+![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene1.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene2.png)
 
 ## ViewPlane
 
