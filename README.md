@@ -4,7 +4,6 @@
   I am unfortunately not able to share this source code due to academic integerity. However, I am able to share the executable and media files, so any interested people are able to run the application themselves. 
 
 The Program was written in C++ utilizing:
-- OpenGL
 - Microsoft Visual Studios C++.
 
 # Animation made from Images rendered in RayTracer
