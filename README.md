@@ -7,7 +7,9 @@ The Program was written in C++ utilizing:
 - Microsoft Visual Studios C++.
 
 # Animation made from Images rendered in RayTracer
-[![YouTubeThumbNail](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/YouTubeThumbNail.png)](https://www.youtube.com/watch?v=FFaznvya36A "Everything Is AWESOME")
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene1.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene2.png)
 
 # Contact for any Questions
 - Danny Zhu
