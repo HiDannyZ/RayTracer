@@ -18,7 +18,7 @@ Personally made
   - chdannyzhu@yahoo.com
   
 # Ray Tracing Intro
-
+My 2 images and 
 # Features:
 
 ## ViewPlane
@@ -65,33 +65,9 @@ https://www.mvps.org/directx/articles/catmull/
 catmullRom.pdf
 
 
-#  Preamble
+# Resources utilized:
 
-Press T to get on the track and press again to get off track
+Textbook: Peter Shirley, et. Al. Fundamentals of Computer Graphics (4th Edition). A K Peters Ltd; (ISBN:1482229390).
 
-Press the U,I,O to increase transformations
-
-Press the J,K,L to decrease transformations
-
-Shift+Key will alter scale
-
-Control+Key will alter translation
-
-Key along will alter rotation rate
-
-Pressing Comma will increase transformation Step
-
-Pressing Period will decrease transformation Step
-
-Pressing G will reset transformations
-
-Pressing Q will toggle Quaternion Rotation
-
-Pressing B will toggle reflections for the box textures
-
-Pressing H will toggle heightmap
-
-Pressing N will toggle Normals
-
-Pressing P will print information
+Reference book: OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.5 with SPIR-V (9th Edition). OpenGL Architecture Review Board, Dave Shreiner, Jackie Neider, Mason Woo, Tom Davis. Addison-Wesley; (ISBN1482229390)
 
