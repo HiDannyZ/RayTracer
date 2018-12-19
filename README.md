@@ -1,5 +1,4 @@
 # RayTracer
-# Prototype-RollerCoaster
 
 # Disclaimer!
   I am unfortunately not able to share this source code due to academic integerity. However, I am able to share the executable and media files, so any interested people are able to run the application themselves. 
@@ -7,8 +6,11 @@
 The Program was written in C++ utilizing:
 - OpenGL
 - Microsoft Visual Studios C++.
+
 # Video
 [![YouTubeThumbNail](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/YouTubeThumbNail.png)](https://www.youtube.com/watch?v=FFaznvya36A "Everything Is AWESOME")
+
+Personally made 
 
 # Contact for any Questions
 - Danny Zhu
@@ -19,11 +21,15 @@ The Program was written in C++ utilizing:
 
 # Features:
 
-## SkyBox
+## ViewPlane
 
-The roller-coaster is contained in a skybox: a cube with textures of ground,horizon, and sky that fit together to appear as a seamless large environment. To give my skybox a more realistic effect of being infinitely far away, I had it unaffected by the translation of the camera. Thus, no matter how far I moved, the skybox will never get closer.
+## BackWard Raytracing
+
+## Phong Illumination model
+
+
   
-## Track
+## Reflection
 <p align="center">
   <img src="CatmullRomPic2.png">
 </p>
@@ -32,7 +38,7 @@ Catmull-Rom splines have C^1 continuity, local control, and interpolation. They 
 
 To create the track itself, I modified a track file containing a collection of control points that the track will go through. 
 
-## Camera Control
+## Refraction
 <p align="center">
   <img src="CatmullRomPic.png">
 </p>
