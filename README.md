@@ -7,7 +7,7 @@ The Program was written in C++ utilizing:
 - Microsoft Visual Studios C++.
 
 # Animation made from Images rendered in RayTracer
-Solarized dark             |  Solarized Ocean
+Scene1            |  Scene2
 :-------------------------:|:-------------------------:
 ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene1.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene2.png)
 
