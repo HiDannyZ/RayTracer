@@ -50,28 +50,28 @@ No Lights With Texture          |  With Texture and Light
 
 ## Refraction
 <p align="center">
-  <img src="CatmullRomPic.png">
+ <img src="https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MyrefractionTest.png" width="700" height="400" >
 </p>
 
-Utilzing catmull-spline and conservation of energy, the camera follows the interpolated control points between 2 points (from 0 to 1 as indicated from the picture). We use these control points to help direct the camera's motion and its orientation by using it to calculate the overall velocity in the system depending on the level of height.
-
+## Reflection & Refraction
+Reflection and Refraction       |  Reflective Spheres                 
+:-------------------------:|:-------------------------:|
+![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MyreflectiveSpheres%26Tris.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/Myreflection%26refraction.png)|
 
 # How to Run the Program:
-  Download the Project_2.rar
+  Download the Project_3.rar
   
   KEEP ALL FILE NAMES THE SAME and the same order.
   
-  Double-click Project2.exe. 
+  Double-click Project3.exe. 
 
 
 ### How was the Animation made?
-FFMPRG
+After rendering 76 frames by hand, I utilized ffmpeg to create the gif. 
 
    
-# Source for Images and more info:
-https://www.mvps.org/directx/articles/catmull/
-
-catmullRom.pdf
+# Source for Images/Textures and more info:
+https://www.solarsystemscope.com/textures/
 
 
 # Resources utilized:
