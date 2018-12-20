@@ -19,9 +19,6 @@ The Program was written in C++ utilizing:
 # Ray Tracing Intro
 
 # Features:
-Scene1            |  Scene2
-:-------------------------:|:-------------------------:
-![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene1.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene2.png)
 
 ## ViewPlane
 ![.](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/ViewPlane.png)
@@ -41,7 +38,6 @@ No Lights With Texture          |  With Texture and Light
 :-------------------------:|:-------------------------:|
 ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MytextureTriTest.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MytextureSphereTest.png)|
 
-
   
 ## Reflection
 <p align="center">
@@ -57,6 +53,11 @@ No Lights With Texture          |  With Texture and Light
 Reflection and Refraction       |  Reflective Spheres                 
 :-------------------------:|:-------------------------:|
 ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MyreflectiveSpheres%26Tris.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/Myreflection%26refraction.png)|
+
+## Images made by myself
+Scene1            |  Scene2
+:-------------------------:|:-------------------------:
+![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene1.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene2.png)
 
 # How to Run the Program:
   Download the Project_3.rar
