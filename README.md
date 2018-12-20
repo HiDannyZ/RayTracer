@@ -16,6 +16,8 @@ The Program was written in C++ utilizing:
   
 # Ray Tracing Intro
 
+![.](https://github.com/HiDannyZhu/RayTracer/blob/master/Animation.gif)
+
 # Features:
 Scene1            |  Scene2
 :-------------------------:|:-------------------------:
