@@ -33,6 +33,14 @@ To produce Perspective projections are used to produce images which look natural
 
 ## Phong Illumination model
 
+No Lights            |  Lighted Sphere                       
+:-------------------------:|:-------------------------:|
+![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MySingleTriangleNoLight.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MySingleSphereLighted.png)|
+
+No Lights With Texture          |  With Texture and Light                      
+:-------------------------:|:-------------------------:|
+![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MytextureTriTest.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MytextureSphereTest.png)|
+
 
   
 ## Reflection
