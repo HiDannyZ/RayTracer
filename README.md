@@ -23,8 +23,7 @@ The Program was written in C++ utilizing:
 
 ## ViewPlane
 ![.](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/ViewPlane.png)
-The Viewplane is a graphically way to represent 3D objects as 2D
-To produce Perspective projections are used to produce images which look natural. When we view scenes in everyday life far away items appear small relative to nearer items.
+To be able to see the images created by the Ray tracer, I had to implement a view plane for our eye camera. Similar to how a camera creates 2D images from pictures on our 3D world, the Viewplane is a graphically way to represent 3D objects as 2D.
 
 ## BackWard Raytracing
 
@@ -68,13 +67,13 @@ Scene1            |  Scene2
   Double-click Project3.exe. 
 
 
-### How was the Animation made?
+# How was the Animation made?
 After rendering 76 frames by hand, I utilized ffmpeg to create the gif. 
 
    
 # Source for Images/Textures and more info:
 https://www.solarsystemscope.com/textures/
-
+Badges:https://github.com/Naereen/badges
 
 # Resources utilized:
 
