@@ -1,5 +1,5 @@
 # RayTracer
-
+![.](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene2.png)
 # Disclaimer!
   I am unfortunately not able to share this source code due to academic integerity. However, I am able to share the executable and media files, so any interested people are able to run the application themselves. 
 
