@@ -22,8 +22,12 @@ Scene1            |  Scene2
 ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene1.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene2.png)
 
 ## ViewPlane
-To render an image of a 3D scene, we project it onto a plane. Therefore
+![.](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/ViewPlane.png)
+The Viewplane is a graphically way to represent 3D objects as 2D
+To produce Perspective projections are used to produce images which look natural. When we view scenes in everyday life far away items appear small relative to nearer items.
+
 ## BackWard Raytracing
+
 
 ## Phong Illumination model
 
@@ -34,10 +38,6 @@ To render an image of a 3D scene, we project it onto a plane. Therefore
   <img src="CatmullRomPic2.png">
 </p>
 
-Catmull-Rom splines have C^1 continuity, local control, and interpolation. They are fantastic in ensuring C^1 continuity and having smooth curves. The Catmull-Rom spline essentially functions by taking 4 points and giving back positions from the interpolation between the 2nd and 3rd points where the starting position would be the integer 0 at the 2nd point and ending position would be the integer 1 at the 3rd point. With this, I stored these positions to shape the curve and track itself.
-
-To create the track itself, I modified a track file containing a collection of control points that the track will go through. 
-
 ## Refraction
 <p align="center">
   <img src="CatmullRomPic.png">
@@ -45,11 +45,6 @@ To create the track itself, I modified a track file containing a collection of c
 
 Utilzing catmull-spline and conservation of energy, the camera follows the interpolated control points between 2 points (from 0 to 1 as indicated from the picture). We use these control points to help direct the camera's motion and its orientation by using it to calculate the overall velocity in the system depending on the level of height.
 
-## Basic Shading: Lighting of Normals
-When light hits an object, an important fraction of it is reflected in all directions.
-When a certain flux of light arrives at the surface, this surface is illuminated differently according to the angle at which the light arrives. If the light is perpendicular to the surface, it is concentrated on a small surface. If it arrives at a gazing angle, the same quantity of light spreads on a greater surface. This means that when we compute the colour of a pixel, the angle between the incoming light and the surface normal matters.
-
-By accurately computing the normals of my track, the lighting on my track produced a very high degree of visual realism.
 
 # How to Run the Program:
   Download the Project_2.rar
@@ -60,7 +55,7 @@ By accurately computing the normals of my track, the lighting on my track produc
 
 
 ### How was the Animation made?
-
+FFMPRG
 
    
 # Source for Images and more info:
