@@ -37,7 +37,7 @@ To produce Perspective projections are used to produce images which look natural
   
 ## Reflection
 <p align="center">
-  <img src="CatmullRomPic2.png">
+  <img src="https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MyreflectionTest.png" width="700" height="400" >
 </p>
 
 ## Refraction
