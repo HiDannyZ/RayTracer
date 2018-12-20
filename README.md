@@ -9,14 +9,14 @@ The Program was written in C++ utilizing:
 
 # Animation made from Images rendered in RayTracer
 
+![.](https://github.com/HiDannyZhu/RayTracer/blob/master/Animation.gif)
+
 # Contact for any Questions
 - Danny Zhu
   - [Linkedin](https://www.linkedin.com/in/danny-zhu-8b6556119/),
   - chdannyzhu@yahoo.com
   
 # Ray Tracing Intro
-
-![.](https://github.com/HiDannyZhu/RayTracer/blob/master/Animation.gif)
 
 # Features:
 Scene1            |  Scene2
