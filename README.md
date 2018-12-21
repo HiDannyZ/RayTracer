@@ -21,7 +21,7 @@ The Program was written in C++ utilizing:
   
 # Ray Tracing Intro
 <p align="center">
- <img src="https://github.com/HiDannyZhu/RayTracer/blob/master/Images/RayTracingImage1.png" width="600" height="400" >
+ <img src="https://github.com/HiDannyZhu/RayTracer/blob/master/Images/RayTraceIntoImage.png" width="600" height="400" >
 </p>
 
 In Computer Graphics, Ray tracing is a technique for generating an image by tracing the path of light through pixels in an image
