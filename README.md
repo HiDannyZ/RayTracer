@@ -31,7 +31,7 @@ plane and simulating the effects of its encounters with virtual objects. The tec
 
 ## ViewPlane
 ![.](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/ViewPlane.png)
-To be able to see the images created by the Ray tracer, I had to implement a view plane for our eye camera. Similar to how a camera creates 2D images from pictures on our 3D world, the Viewplane is a graphically way to represent 3D objects as 2D.
+To be able to see the images created by the Ray tracer, I had to implement a view plane for our eye camera. Similar to how a camera creates 2D images from pictures on our 3D world, the Viewplane is a graphically way to represent 3D objects to a 2D plane.
 
 
 ## Phong Illumination model
@@ -66,7 +66,7 @@ Scene1            |  Scene2
 ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene1.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene2.png)
 
 ## Test Everything
-
+![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MytestEverything.png)
 # How to Run the Program:
   Download the Project_3.rar
   
