@@ -85,7 +85,10 @@ After rendering 76 frames by hand, I utilized ffmpeg to create the gif.
    
 # Source for Images/Textures and more info:
 https://www.solarsystemscope.com/textures/
+
 Badges:https://github.com/Naereen/badges
+
+https://cs.stanford.edu/people/eroberts/courses/soco/projects/1997-98/ray-tracing/types.html
 
 # Resources utilized:
 
