@@ -65,6 +65,8 @@ Scene1            |  Scene2
 :-------------------------:|:-------------------------:
 ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene1.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene2.png)
 
+## Test Everything
+
 # How to Run the Program:
   Download the Project_3.rar
   
