@@ -3,6 +3,8 @@
 ![.](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene2.png)
 # Disclaimer!
   I am unfortunately not able to share this source code due to academic integerity. However, I am able to share the executable and media files, so any interested people are able to run the application themselves. 
+  
+The goal of this project was to build a program that takes a high-level description of a scene (where the objects, lights, and camera are) and produces the image seen through that camera.
 
 The Program was written in C++ utilizing:
 - Microsoft Visual Studios C++.
@@ -18,14 +20,16 @@ The Program was written in C++ utilizing:
 ![.](https://github.com/HiDannyZhu/RayTracer/blob/master/Animation.gif)
   
 # Ray Tracing Intro
+![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/RayTracingImage1.png)
+
+In Computer Graphics, Ray tracing is a technique for generating an image by tracing the path of light through pixels in an image
+plane and simulating the effects of its encounters with virtual objects. The technique is capable of producing a very high degree of visual realism, usually higher than that of typical scanline rendering methods, but at a greater computational cost. This makes ray tracing best suited for applications where the image can be rendered slowly ahead of time, such as in still images and film and television special effects, and more poorly suited for real-time applications like computer games where speed is critical. Ray tracing is capable of simulating a wide variety of optical effects, such as reflection and refraction, scattering, and chromatic aberration.
 
 # Features:
 
 ## ViewPlane
 ![.](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/ViewPlane.png)
 To be able to see the images created by the Ray tracer, I had to implement a view plane for our eye camera. Similar to how a camera creates 2D images from pictures on our 3D world, the Viewplane is a graphically way to represent 3D objects as 2D.
-
-## BackWard Raytracing
 
 
 ## Phong Illumination model
