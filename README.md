@@ -72,13 +72,6 @@ Scene1            |  Scene2
 
 ## Tests Everything
 ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MytestEverything.png)
-# How to Run the Program:
-  Download the Project_3.rar
-  
-  KEEP ALL FILE NAMES THE SAME and the same order.
-  
-  Double-click Project3.exe. 
-
 
 # How was the Animation made?
 After rendering 76 frames by hand, I utilized ffmpeg to create the gif. 
