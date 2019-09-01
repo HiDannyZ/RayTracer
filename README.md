@@ -28,9 +28,9 @@ The Program was written in C++ utilizing:
 In Computer Graphics, Ray tracing is a technique for generating an image by tracing the path of light through pixels in an image
 plane and simulating the effects of its encounters with virtual objects. The technique is capable of producing a very high degree of visual realism, usually higher than that of typical scanline rendering methods, but at a greater computational cost. This makes ray tracing best suited for applications where the image can be rendered slowly ahead of time, such as in still images and film and television special effects, and more poorly suited for real-time applications like computer games where speed is critical. Ray tracing is capable of simulating a wide variety of optical effects, such as reflection and refraction, scattering, and chromatic aberration.
 
-As indicated in the image above, I implemented this program utilizing the technique of **Backwards Raytracing** where the initial ray comes from the eye. This is so my algorithm will not render unneeded objects in the scene as there may be objects that block the view of another object.
+As indicated in the image above, I implemented this program utilizing the well-known concept of **Backwards Raytracing** where the initial ray comes from the eye. This is so my algorithm will not render unneeded objects in the scene as there may be objects that block the view of another object.
 
-For example, there may be a cube on a desk. If I add another bigger cube in front of the cube facing the camera, we wouldn't be able to see the first cube as its blocked. By avoiding to render the unseeable objects in the scene, my program runs a lot faster and is more efficient than [forward raytracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)).
+For example, there may be a cube on a desk. If I add another bigger cube in front of the cube facing the camera, we wouldn't be able to see the first cube as its blocked. By avoiding to render the unseeable objects in the scene, the program runs a lot faster and is more efficient than [forward raytracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)).
 
 # Features:
 
