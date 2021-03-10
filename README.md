@@ -2,8 +2,6 @@
 # RayTracer
 ![.](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/DScene2.png)
 # Disclaimer!
-  I am unfortunately not able to share this source code due to academic integerity. However, I am able to share the executable and media files, so any interested people are able to run the application themselves. 
-  
 The goal of this project was to build a program that takes a high-level description of a scene (where the objects, lights, and camera are) and produces the image seen through that camera.
 
 The Program was written in C++ utilizing:
